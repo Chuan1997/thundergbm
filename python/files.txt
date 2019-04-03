@@ -1,0 +1,14 @@
+/usr/local/lib/python3.5/dist-packages/thundergbm-0.0.2-py3.5.egg/libthundergbm.so
+/usr/local/lib/python3.5/dist-packages/thundergbm-0.0.2-py3.5.egg/EGG-INFO/not-zip-safe
+/usr/local/lib/python3.5/dist-packages/thundergbm-0.0.2-py3.5.egg/EGG-INFO/dependency_links.txt
+/usr/local/lib/python3.5/dist-packages/thundergbm-0.0.2-py3.5.egg/EGG-INFO/SOURCES.txt
+/usr/local/lib/python3.5/dist-packages/thundergbm-0.0.2-py3.5.egg/EGG-INFO/PKG-INFO
+/usr/local/lib/python3.5/dist-packages/thundergbm-0.0.2-py3.5.egg/EGG-INFO/top_level.txt
+/usr/local/lib/python3.5/dist-packages/thundergbm-0.0.2-py3.5.egg/EGG-INFO/requires.txt
+/usr/local/lib/python3.5/dist-packages/thundergbm-0.0.2-py3.5.egg/thundergbm/thundergbm_scikit.py
+/usr/local/lib/python3.5/dist-packages/thundergbm-0.0.2-py3.5.egg/thundergbm/__init__.py
+/usr/local/lib/python3.5/dist-packages/thundergbm-0.0.2-py3.5.egg/thundergbm/__pycache__/__init__.cpython-35.pyc
+/usr/local/lib/python3.5/dist-packages/thundergbm-0.0.2-py3.5.egg/thundergbm/__pycache__/thundergbm_scikit.cpython-35.pyc
+/usr/local/bin/f2py
+/usr/local/bin/f2py3
+/usr/local/bin/f2py3.5
